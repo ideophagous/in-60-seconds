@@ -61,10 +61,8 @@ found in your new repository. This means that your first GitPitch slide deck
 is immediately available at the following URL:
 
 ```
-https://gitpitch.com/$USER/in-60-seconds
+https://gitpitch.com/ideophagous/in-60-seconds
 ```
-
-> You must substitute **your** *GitHub* account name for `$USER` in the above slideshow URL.
 
 Using **your** slideshow URL, go ahead and open your new slide deck in the
 browser now. When you open your slide deck you should see the first sample
